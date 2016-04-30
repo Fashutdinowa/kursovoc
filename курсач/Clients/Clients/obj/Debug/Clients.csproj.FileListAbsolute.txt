@@ -1,0 +1,15 @@
+c:\users\raduga-cb\documents\visual studio 2015\Projects\Clients\Clients\bin\Debug\Clients.dll
+c:\users\raduga-cb\documents\visual studio 2015\Projects\Clients\Clients\bin\Debug\Clients.pdb
+c:\users\raduga-cb\documents\visual studio 2015\Projects\Clients\Clients\obj\Debug\Clients.csprojResolveAssemblyReference.cache
+c:\users\raduga-cb\documents\visual studio 2015\Projects\Clients\Clients\obj\Debug\Clients.dll
+c:\users\raduga-cb\documents\visual studio 2015\Projects\Clients\Clients\obj\Debug\Clients.pdb
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Clients\Clients\bin\Debug\Clients.dll
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Clients\Clients\bin\Debug\Clients.pdb
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Clients\Clients\obj\Debug\Clients.csprojResolveAssemblyReference.cache
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Clients\Clients\obj\Debug\Clients.dll
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Clients\Clients\obj\Debug\Clients.pdb
+C:\Users\raduga-cb\Desktop\курсач\Clients\Clients\bin\Debug\Clients.dll
+C:\Users\raduga-cb\Desktop\курсач\Clients\Clients\bin\Debug\Clients.pdb
+C:\Users\raduga-cb\Desktop\курсач\Clients\Clients\obj\Debug\Clients.csprojResolveAssemblyReference.cache
+C:\Users\raduga-cb\Desktop\курсач\Clients\Clients\obj\Debug\Clients.dll
+C:\Users\raduga-cb\Desktop\курсач\Clients\Clients\obj\Debug\Clients.pdb

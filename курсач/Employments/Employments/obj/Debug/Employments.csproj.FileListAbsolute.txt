@@ -1,0 +1,10 @@
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Employments\Employments\bin\Debug\Employments.dll
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Employments\Employments\bin\Debug\Employments.pdb
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Employments\Employments\obj\Debug\Employments.csprojResolveAssemblyReference.cache
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Employments\Employments\obj\Debug\Employments.dll
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Employments\Employments\obj\Debug\Employments.pdb
+C:\Users\raduga-cb\Desktop\курсач\Employments\Employments\bin\Debug\Employments.dll
+C:\Users\raduga-cb\Desktop\курсач\Employments\Employments\bin\Debug\Employments.pdb
+C:\Users\raduga-cb\Desktop\курсач\Employments\Employments\obj\Debug\Employments.csprojResolveAssemblyReference.cache
+C:\Users\raduga-cb\Desktop\курсач\Employments\Employments\obj\Debug\Employments.dll
+C:\Users\raduga-cb\Desktop\курсач\Employments\Employments\obj\Debug\Employments.pdb

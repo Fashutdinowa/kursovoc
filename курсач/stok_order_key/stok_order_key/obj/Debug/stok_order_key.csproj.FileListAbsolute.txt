@@ -1,0 +1,4 @@
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\stok_order_key\stok_order_key\bin\Debug\stok_order_key.dll
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\stok_order_key\stok_order_key\bin\Debug\stok_order_key.pdb
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\stok_order_key\stok_order_key\obj\Debug\stok_order_key.dll
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\stok_order_key\stok_order_key\obj\Debug\stok_order_key.pdb
