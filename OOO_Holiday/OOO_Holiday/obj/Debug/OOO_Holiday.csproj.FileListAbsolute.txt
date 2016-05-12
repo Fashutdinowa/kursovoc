@@ -1,0 +1,86 @@
+c:\users\gagar_000\documents\visual studio 2015\Projects\OOO_Holiday\OOO_Holiday\bin\Debug\OOO_Holiday.exe.config
+c:\users\gagar_000\documents\visual studio 2015\Projects\OOO_Holiday\OOO_Holiday\bin\Debug\OOO_Holiday.exe
+c:\users\gagar_000\documents\visual studio 2015\Projects\OOO_Holiday\OOO_Holiday\bin\Debug\OOO_Holiday.pdb
+c:\users\gagar_000\documents\visual studio 2015\Projects\OOO_Holiday\OOO_Holiday\obj\Debug\OOO_Holiday.csprojResolveAssemblyReference.cache
+c:\users\gagar_000\documents\visual studio 2015\Projects\OOO_Holiday\OOO_Holiday\obj\Debug\OOO_Holiday.Form_main.resources
+c:\users\gagar_000\documents\visual studio 2015\Projects\OOO_Holiday\OOO_Holiday\obj\Debug\OOO_Holiday.Properties.Resources.resources
+c:\users\gagar_000\documents\visual studio 2015\Projects\OOO_Holiday\OOO_Holiday\obj\Debug\OOO_Holiday.csproj.GenerateResource.Cache
+c:\users\gagar_000\documents\visual studio 2015\Projects\OOO_Holiday\OOO_Holiday\obj\Debug\OOO_Holiday.exe
+c:\users\gagar_000\documents\visual studio 2015\Projects\OOO_Holiday\OOO_Holiday\obj\Debug\OOO_Holiday.pdb
+c:\users\gagar_000\documents\visual studio 2015\Projects\OOO_Holiday\OOO_Holiday\obj\Debug\OOO_Holiday.Form_client.resources
+c:\users\gagar_000\documents\visual studio 2015\Projects\OOO_Holiday\OOO_Holiday\obj\Debug\OOO_Holiday.Form_order.resources
+C:\Users\Gagar_000\documents\visual studio 2015\Projects\OOO_Holiday\OOO_Holiday\obj\Debug\OOO_Holiday.Form_payment.resources
+C:\Users\Gagar_000\documents\visual studio 2015\Projects\OOO_Holiday\OOO_Holiday\obj\Debug\OOO_Holiday.Form_courier.resources
+C:\Users\Gagar_000\documents\visual studio 2015\Projects\OOO_Holiday\OOO_Holiday\obj\Debug\OOO_Holiday.Form_product.resources
+C:\Users\Gagar_000\documents\visual studio 2015\Projects\OOO_Holiday\OOO_Holiday\obj\Debug\OOO_Holiday.Form_report.resources
+C:\Users\Gagar_000\documents\visual studio 2015\Projects\OOO_Holiday\OOO_Holiday\obj\Debug\OOO_Holiday.Form_route.resources
+C:\Users\Gagar_000\documents\visual studio 2015\Projects\OOO_Holiday\OOO_Holiday\obj\Debug\OOO_Holiday.Form_edit_client.resources
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\OOO_Holiday\OOO_Holiday\bin\Debug\Clients.dll
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\OOO_Holiday\OOO_Holiday\bin\Debug\Database.dll
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\OOO_Holiday\OOO_Holiday\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\OOO_Holiday\OOO_Holiday\bin\Debug\Clients.pdb
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\OOO_Holiday\OOO_Holiday\bin\Debug\Database.pdb
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\OOO_Holiday\OOO_Holiday\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\OOO_Holiday\OOO_Holiday\bin\Debug\Couriers.dll
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\OOO_Holiday\OOO_Holiday\bin\Debug\Stock.dll
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\OOO_Holiday\OOO_Holiday\bin\Debug\Orders.dll
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\OOO_Holiday\OOO_Holiday\bin\Debug\Couriers.pdb
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\OOO_Holiday\OOO_Holiday\bin\Debug\Stock.pdb
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\OOO_Holiday\OOO_Holiday\bin\Debug\Orders.pdb
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\OOO_Holiday\OOO_Holiday\bin\Debug\Data_processing.dll
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\OOO_Holiday\OOO_Holiday\bin\Debug\itextsharp.dll
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\OOO_Holiday\OOO_Holiday\bin\Debug\Data_processing.pdb
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\OOO_Holiday\OOO_Holiday\bin\Debug\itextsharp.xml
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\OOO_Holiday\OOO_Holiday\bin\Debug\Employments.dll
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\OOO_Holiday\OOO_Holiday\bin\Debug\Employments.pdb
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\OOO_Holiday\OOO_Holiday\bin\Debug\EntityFramework.dll
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\OOO_Holiday\OOO_Holiday\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\OOO_Holiday\OOO_Holiday\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\OOO_Holiday\OOO_Holiday\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\OOO_Holiday\OOO_Holiday\bin\Debug\EntityFramework.xml
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\OOO_Holiday\OOO_Holiday\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\OOO_Holiday\OOO_Holiday\obj\Debug\OOO_Holiday.Diagramma_populity.resources
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\bin\Debug\OOO_Holiday.exe.config
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\obj\Debug\OOO_Holiday.exe
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\obj\Debug\OOO_Holiday.pdb
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\bin\Debug\OOO_Holiday.exe
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\bin\Debug\OOO_Holiday.pdb
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\bin\Debug\Clients.dll
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\bin\Debug\Couriers.dll
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\bin\Debug\Database.dll
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\bin\Debug\Data_processing.dll
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\bin\Debug\Employments.dll
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\bin\Debug\EntityFramework.dll
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\bin\Debug\itextsharp.dll
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\bin\Debug\Orders.dll
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\bin\Debug\Stock.dll
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\bin\Debug\System.Data.SQLite.dll
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\bin\Debug\Clients.pdb
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\bin\Debug\Couriers.pdb
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\bin\Debug\Database.pdb
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\bin\Debug\Data_processing.pdb
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\bin\Debug\Employments.pdb
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\bin\Debug\EntityFramework.xml
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\bin\Debug\itextsharp.xml
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\bin\Debug\Orders.pdb
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\bin\Debug\Stock.pdb
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\bin\Debug\System.Data.SQLite.xml
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\obj\Debug\OOO_Holiday.csprojResolveAssemblyReference.cache
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\obj\Debug\OOO_Holiday.Diagramma_populity.resources
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\obj\Debug\OOO_Holiday.Form_client.resources
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\obj\Debug\OOO_Holiday.Form_courier.resources
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\obj\Debug\OOO_Holiday.Form_edit_client.resources
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\obj\Debug\OOO_Holiday.Form_main.resources
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\obj\Debug\OOO_Holiday.Form_order.resources
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\obj\Debug\OOO_Holiday.Form_payment.resources
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\obj\Debug\OOO_Holiday.Form_product.resources
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\obj\Debug\OOO_Holiday.Form_report.resources
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\obj\Debug\OOO_Holiday.Form_route.resources
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\obj\Debug\OOO_Holiday.Properties.Resources.resources
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\obj\Debug\OOO_Holiday.csproj.GenerateResource.Cache
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\bin\Debug\Report.dll
+C:\Users\raduga-cb\Desktop\последняя\OOO_Holiday\OOO_Holiday\bin\Debug\Report.pdb
