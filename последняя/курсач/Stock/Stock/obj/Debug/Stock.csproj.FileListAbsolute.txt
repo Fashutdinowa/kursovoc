@@ -1,0 +1,14 @@
+c:\users\raduga-cb\documents\visual studio 2015\Projects\Stock\Stock\bin\Debug\Stock.dll
+c:\users\raduga-cb\documents\visual studio 2015\Projects\Stock\Stock\bin\Debug\Stock.pdb
+c:\users\raduga-cb\documents\visual studio 2015\Projects\Stock\Stock\obj\Debug\Stock.dll
+c:\users\raduga-cb\documents\visual studio 2015\Projects\Stock\Stock\obj\Debug\Stock.pdb
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Stock\Stock\bin\Debug\Stock.dll
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Stock\Stock\bin\Debug\Stock.pdb
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Stock\Stock\obj\Debug\Stock.csprojResolveAssemblyReference.cache
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Stock\Stock\obj\Debug\Stock.dll
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Stock\Stock\obj\Debug\Stock.pdb
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Stock\Stock\bin\Debug\Stock.dll
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Stock\Stock\bin\Debug\Stock.pdb
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Stock\Stock\obj\Debug\Stock.csprojResolveAssemblyReference.cache
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Stock\Stock\obj\Debug\Stock.dll
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Stock\Stock\obj\Debug\Stock.pdb

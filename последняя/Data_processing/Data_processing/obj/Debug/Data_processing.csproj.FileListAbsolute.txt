@@ -1,0 +1,10 @@
+c:\users\gagar_000\documents\visual studio 2015\Projects\Data_processing\Data_processing\bin\Debug\Data_processing.dll
+c:\users\gagar_000\documents\visual studio 2015\Projects\Data_processing\Data_processing\bin\Debug\Data_processing.pdb
+c:\users\gagar_000\documents\visual studio 2015\Projects\Data_processing\Data_processing\bin\Debug\itextsharp.dll
+c:\users\gagar_000\documents\visual studio 2015\Projects\Data_processing\Data_processing\bin\Debug\System.Net.Mail.Abstractions.dll
+c:\users\gagar_000\documents\visual studio 2015\Projects\Data_processing\Data_processing\bin\Debug\itextsharp.xml
+c:\users\gagar_000\documents\visual studio 2015\Projects\Data_processing\Data_processing\obj\Debug\Data_processing.dll
+c:\users\gagar_000\documents\visual studio 2015\Projects\Data_processing\Data_processing\obj\Debug\Data_processing.pdb
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\Data_processing\Data_processing\bin\Debug\Stock.dll
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\Data_processing\Data_processing\bin\Debug\Stock.pdb
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\Data_processing\Data_processing\obj\Debug\Data_processing.csprojResolveAssemblyReference.cache

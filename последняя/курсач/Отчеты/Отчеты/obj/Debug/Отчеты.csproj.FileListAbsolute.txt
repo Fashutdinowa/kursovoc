@@ -1,0 +1,48 @@
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Отчеты\Отчеты\bin\Debug\Отчеты.exe.config
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Отчеты\Отчеты\obj\Debug\Отчеты.csprojResolveAssemblyReference.cache
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Отчеты\Отчеты\obj\Debug\Отчеты.Form1.resources
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Отчеты\Отчеты\obj\Debug\Отчеты.Properties.Resources.resources
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Отчеты\Отчеты\obj\Debug\Отчеты.csproj.GenerateResource.Cache
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Отчеты\Отчеты\bin\Debug\Отчеты.exe
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Отчеты\Отчеты\bin\Debug\Отчеты.pdb
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Отчеты\Отчеты\obj\Debug\Отчеты.exe
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Отчеты\Отчеты\obj\Debug\Отчеты.pdb
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Отчеты\Отчеты\bin\Debug\Database.dll
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Отчеты\Отчеты\bin\Debug\System.Data.SQLite.dll
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Отчеты\Отчеты\bin\Debug\Clients.dll
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Отчеты\Отчеты\bin\Debug\Couriers.dll
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Отчеты\Отчеты\bin\Debug\Stock.dll
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Отчеты\Отчеты\bin\Debug\Orders.dll
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Отчеты\Отчеты\bin\Debug\Employments.dll
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Отчеты\Отчеты\bin\Debug\Database.pdb
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Отчеты\Отчеты\bin\Debug\System.Data.SQLite.xml
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Отчеты\Отчеты\bin\Debug\Clients.pdb
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Отчеты\Отчеты\bin\Debug\Couriers.pdb
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Отчеты\Отчеты\bin\Debug\Stock.pdb
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Отчеты\Отчеты\bin\Debug\Orders.pdb
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Отчеты\Отчеты\bin\Debug\Employments.pdb
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Отчеты\Отчеты\obj\Debug\Отчеты.Diagramma_populity.resources
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Отчеты\Отчеты\bin\Debug\Отчеты.exe.config
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Отчеты\Отчеты\obj\Debug\Отчеты.exe
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Отчеты\Отчеты\obj\Debug\Отчеты.pdb
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Отчеты\Отчеты\bin\Debug\Отчеты.exe
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Отчеты\Отчеты\bin\Debug\Отчеты.pdb
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Отчеты\Отчеты\bin\Debug\Database.dll
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Отчеты\Отчеты\bin\Debug\Orders.dll
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Отчеты\Отчеты\bin\Debug\Stock.dll
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Отчеты\Отчеты\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Отчеты\Отчеты\bin\Debug\Clients.dll
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Отчеты\Отчеты\bin\Debug\Couriers.dll
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Отчеты\Отчеты\bin\Debug\Employments.dll
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Отчеты\Отчеты\bin\Debug\Database.pdb
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Отчеты\Отчеты\bin\Debug\Orders.pdb
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Отчеты\Отчеты\bin\Debug\Stock.pdb
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Отчеты\Отчеты\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Отчеты\Отчеты\bin\Debug\Clients.pdb
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Отчеты\Отчеты\bin\Debug\Couriers.pdb
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Отчеты\Отчеты\bin\Debug\Employments.pdb
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Отчеты\Отчеты\obj\Debug\Отчеты.csprojResolveAssemblyReference.cache
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Отчеты\Отчеты\obj\Debug\Отчеты.Diagramma_populity.resources
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Отчеты\Отчеты\obj\Debug\Отчеты.Form1.resources
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Отчеты\Отчеты\obj\Debug\Отчеты.Properties.Resources.resources
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Отчеты\Отчеты\obj\Debug\Отчеты.csproj.GenerateResource.Cache

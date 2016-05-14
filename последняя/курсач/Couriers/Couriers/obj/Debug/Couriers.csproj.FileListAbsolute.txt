@@ -1,0 +1,14 @@
+c:\users\raduga-cb\documents\visual studio 2015\Projects\Couriers\Couriers\bin\Debug\Couriers.dll
+c:\users\raduga-cb\documents\visual studio 2015\Projects\Couriers\Couriers\bin\Debug\Couriers.pdb
+c:\users\raduga-cb\documents\visual studio 2015\Projects\Couriers\Couriers\obj\Debug\Couriers.dll
+c:\users\raduga-cb\documents\visual studio 2015\Projects\Couriers\Couriers\obj\Debug\Couriers.pdb
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Couriers\Couriers\bin\Debug\Couriers.dll
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Couriers\Couriers\bin\Debug\Couriers.pdb
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Couriers\Couriers\obj\Debug\Couriers.csprojResolveAssemblyReference.cache
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Couriers\Couriers\obj\Debug\Couriers.dll
+C:\Users\raduga-cb\Desktop\Курсач, будь он не ладен!\Couriers\Couriers\obj\Debug\Couriers.pdb
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Couriers\Couriers\bin\Debug\Couriers.dll
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Couriers\Couriers\bin\Debug\Couriers.pdb
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Couriers\Couriers\obj\Debug\Couriers.csprojResolveAssemblyReference.cache
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Couriers\Couriers\obj\Debug\Couriers.dll
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Couriers\Couriers\obj\Debug\Couriers.pdb

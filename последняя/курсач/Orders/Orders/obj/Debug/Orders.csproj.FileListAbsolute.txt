@@ -1,0 +1,12 @@
+C:\Users\raduga-cb\Documents\Visual Studio 2015\Projects\Orders\Orders\bin\Debug\Orders.dll
+C:\Users\raduga-cb\Documents\Visual Studio 2015\Projects\Orders\Orders\bin\Debug\Orders.pdb
+C:\Users\raduga-cb\Documents\Visual Studio 2015\Projects\Orders\Orders\obj\Debug\Orders.csprojResolveAssemblyReference.cache
+C:\Users\raduga-cb\Documents\Visual Studio 2015\Projects\Orders\Orders\obj\Debug\Orders.dll
+C:\Users\raduga-cb\Documents\Visual Studio 2015\Projects\Orders\Orders\obj\Debug\Orders.pdb
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Orders\Orders\bin\Debug\Orders.dll
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Orders\Orders\bin\Debug\Orders.pdb
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Orders\Orders\bin\Debug\Stock.dll
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Orders\Orders\bin\Debug\Stock.pdb
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Orders\Orders\obj\Debug\Orders.csprojResolveAssemblyReference.cache
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Orders\Orders\obj\Debug\Orders.dll
+C:\Users\Gagar_000\Documents\Visual Studio 2015\Projects\курсач\Orders\Orders\obj\Debug\Orders.pdb

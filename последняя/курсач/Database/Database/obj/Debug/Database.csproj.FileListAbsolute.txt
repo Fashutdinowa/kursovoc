@@ -1,0 +1,48 @@
+C:\Users\raduga-cb\Documents\Visual Studio 2015\Projects\Database\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Users\raduga-cb\Documents\Visual Studio 2015\Projects\Database\Database\bin\Debug\Database.dll.config
+C:\Users\raduga-cb\Documents\Visual Studio 2015\Projects\Database\Database\bin\Debug\Database.dll
+C:\Users\raduga-cb\Documents\Visual Studio 2015\Projects\Database\Database\bin\Debug\Database.pdb
+C:\Users\raduga-cb\Documents\Visual Studio 2015\Projects\Database\Database\bin\Debug\Clients.dll
+C:\Users\raduga-cb\Documents\Visual Studio 2015\Projects\Database\Database\bin\Debug\Couriers.dll
+C:\Users\raduga-cb\Documents\Visual Studio 2015\Projects\Database\Database\bin\Debug\EntityFramework.dll
+C:\Users\raduga-cb\Documents\Visual Studio 2015\Projects\Database\Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\raduga-cb\Documents\Visual Studio 2015\Projects\Database\Database\bin\Debug\Orders.dll
+C:\Users\raduga-cb\Documents\Visual Studio 2015\Projects\Database\Database\bin\Debug\Stock.dll
+C:\Users\raduga-cb\Documents\Visual Studio 2015\Projects\Database\Database\bin\Debug\System.Data.SQLite.dll
+C:\Users\raduga-cb\Documents\Visual Studio 2015\Projects\Database\Database\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\raduga-cb\Documents\Visual Studio 2015\Projects\Database\Database\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\raduga-cb\Documents\Visual Studio 2015\Projects\Database\Database\bin\Debug\Clients.pdb
+C:\Users\raduga-cb\Documents\Visual Studio 2015\Projects\Database\Database\bin\Debug\Couriers.pdb
+C:\Users\raduga-cb\Documents\Visual Studio 2015\Projects\Database\Database\bin\Debug\EntityFramework.xml
+C:\Users\raduga-cb\Documents\Visual Studio 2015\Projects\Database\Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\raduga-cb\Documents\Visual Studio 2015\Projects\Database\Database\bin\Debug\Orders.pdb
+C:\Users\raduga-cb\Documents\Visual Studio 2015\Projects\Database\Database\bin\Debug\Stock.pdb
+C:\Users\raduga-cb\Documents\Visual Studio 2015\Projects\Database\Database\bin\Debug\System.Data.SQLite.xml
+C:\Users\raduga-cb\Documents\Visual Studio 2015\Projects\Database\Database\obj\Debug\Database.dll
+C:\Users\raduga-cb\Documents\Visual Studio 2015\Projects\Database\Database\obj\Debug\Database.pdb
+C:\Users\raduga-cb\Documents\Visual Studio 2015\Projects\Database\Database\bin\Debug\Employments.dll
+C:\Users\raduga-cb\Documents\Visual Studio 2015\Projects\Database\Database\bin\Debug\Employments.pdb
+C:\Users\raduga-cb\Desktop\курсач\Database\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Users\raduga-cb\Desktop\курсач\Database\Database\obj\Debug\Database.dll
+C:\Users\raduga-cb\Desktop\курсач\Database\Database\obj\Debug\Database.pdb
+C:\Users\raduga-cb\Desktop\курсач\Database\Database\bin\Debug\Database.dll.config
+C:\Users\raduga-cb\Desktop\курсач\Database\Database\bin\Debug\Database.dll
+C:\Users\raduga-cb\Desktop\курсач\Database\Database\bin\Debug\Database.pdb
+C:\Users\raduga-cb\Desktop\курсач\Database\Database\bin\Debug\Employments.dll
+C:\Users\raduga-cb\Desktop\курсач\Database\Database\bin\Debug\EntityFramework.dll
+C:\Users\raduga-cb\Desktop\курсач\Database\Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\raduga-cb\Desktop\курсач\Database\Database\bin\Debug\System.Data.SQLite.dll
+C:\Users\raduga-cb\Desktop\курсач\Database\Database\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\raduga-cb\Desktop\курсач\Database\Database\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\raduga-cb\Desktop\курсач\Database\Database\bin\Debug\Clients.pdb
+C:\Users\raduga-cb\Desktop\курсач\Database\Database\bin\Debug\Couriers.pdb
+C:\Users\raduga-cb\Desktop\курсач\Database\Database\bin\Debug\Employments.pdb
+C:\Users\raduga-cb\Desktop\курсач\Database\Database\bin\Debug\EntityFramework.xml
+C:\Users\raduga-cb\Desktop\курсач\Database\Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\raduga-cb\Desktop\курсач\Database\Database\bin\Debug\Orders.pdb
+C:\Users\raduga-cb\Desktop\курсач\Database\Database\bin\Debug\Stock.pdb
+C:\Users\raduga-cb\Desktop\курсач\Database\Database\bin\Debug\System.Data.SQLite.xml
+C:\Users\raduga-cb\Desktop\курсач\Database\Database\bin\Debug\Stock.dll
+C:\Users\raduga-cb\Desktop\курсач\Database\Database\bin\Debug\Orders.dll
+C:\Users\raduga-cb\Desktop\курсач\Database\Database\bin\Debug\stok_order_key.dll
+C:\Users\raduga-cb\Desktop\курсач\Database\Database\bin\Debug\stok_order_key.pdb
